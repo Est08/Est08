@@ -1,4 +1,4 @@
-~08~
-Paraná
-"se eu to a kilometros, a morte ta a milímetro" 
+~08~,
+Paraná,
+"se eu to a kilometros, a morte ta a milímetro",
 Volei
